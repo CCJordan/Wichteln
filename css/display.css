@@ -1,0 +1,24 @@
+.textbox{
+	display: inline-block !important;
+	height: 22px;
+	font-size: 15px;
+}
+
+.ui-icon {
+	margin-top: 6px;
+	display: inline-block !important;
+}
+
+#content {
+	width: 410px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.row {
+	height: 32px;
+}
+
+.disabled {
+	-webkit-filter: grayscale(1);
+}
